@@ -1,0 +1,18 @@
+.content {
+    width: 960px;
+    display: flex;
+}
+.sub_image {
+    display: flex;
+}
+.hotel_caption {
+    width: 640px;
+}
+.hotel_plan {
+    display: flex;
+}
+body h2 {
+    background-color: coral;
+    font-size: medium;
+    color: aliceblue;
+}
