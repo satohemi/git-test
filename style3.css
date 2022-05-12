@@ -4,6 +4,7 @@
 }
 .sub_image {
     display: flex;
+    justify-content: space-around;
 }
 .hotel_caption {
     width: 640px;
