@@ -2,10 +2,11 @@
     width: 1920px;
     height: 1000px;
     display: flex;
+    margin: 0 auto 0 auto;
 }
 
 header {
-    width: 200px;
+    width: 150px;
 }
 #main {
     width: 640px;
@@ -15,17 +16,32 @@ header {
     width: 640px;
 }
 
-#sub_image{
+#mainbottom_image{
     display: flex;
 }
-#sub_image img {
+
+#mainbottom_image img {
     width: 320px;
 }
 
 /* sub */
 #sub {
-    width: 220px;
+    width: 640px;
 }
+
+.sub_container {
+    display: flex;
+    font-size: x-small;
+}
+
+.sub_container img {
+    width: 100px;
+    
+}
+
+
+
+
 /* フッター */
 footer {
     width: 200px;
